@@ -22,7 +22,7 @@
   "homepage": "https://github.com/stevetrilogy/unit10hw#readme",
   "dependencies": {
     "bluebird": "^3.7.2",
-    "handlebars": "^4.7.3",
+    "handlebars": "^4.7.7",
     "inquirer": "^6.3.1"
   },
   "devDependencies": {
